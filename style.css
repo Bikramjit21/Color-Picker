@@ -1,0 +1,11 @@
+.value{
+    text-align: center;
+}
+
+div{
+    justify-content: center;
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
